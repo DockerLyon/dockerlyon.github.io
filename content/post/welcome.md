@@ -7,7 +7,7 @@ weight="99"
 images = []
 menu = "main"
 tags = []
-title = "Bienvenu"
+title = "Bienvenue"
 
 +++
 
