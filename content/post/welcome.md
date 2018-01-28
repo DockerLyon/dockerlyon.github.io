@@ -2,7 +2,7 @@
 banner = "banners/docker-life-with-friends.jpg"
 categories = []
 date = "2018-01-24T12:00:00+02:00"
-description = "Billet de bienvenue"
+description = "Bienvenue sur le blog de la communauté Lyonnaise Docker"
 weight="99"
 images = []
 menu = "main"
