@@ -1,4 +1,4 @@
-baseurl = "https://dockerlyon.github.io/"
+baseurl = "https://dockerlyon.netlify.com"
 languageCode = "fr-FR"
 title = "DockerLyon Community"
 # Enable comments by entering your Disqus shortname
