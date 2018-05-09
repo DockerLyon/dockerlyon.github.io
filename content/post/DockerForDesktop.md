@@ -12,7 +12,7 @@ title = "Fevrier2018: DockerForDesktop"
 
 #### Speakers: Rachid Zarouali (SYNOLIA) / Guillaume Tardif (Docker Inc.)
 
-Lors de cette soirée au programme très complet, nous vous avons proposé de découvrir les outils Docker For Desktop ( Docker4Mac et Docker4Windows ), ainsi qu'un retour d'expérience sur la création d'un kit de développement  Docker Bien avant que Docker for Desktop n'apparaisse.
+Lors de cette soirée au programme très complet, nous vous avons proposé de découvrir les outils Docker For Desktop ( Docker4Mac et Docker4Windows ), ainsi qu'un retour d'expérience sur la création d'un kit de développement Docker Bien avant que Docker for Desktop n'apparaisse.
 
 Cette présentation a permis à ceux qui ne connaissaient pas ou peu la technologie, d'apprendre à mieux l'utiliser et pour les plus avertis de faire quelques révisions :)
 
@@ -27,6 +27,9 @@ Quelques Photos de l'evenements (Merci Solange de SYNOLIA :) ):
 
 Merci à Ludovic pour avoir fait la démo de notre Stack SYNOLIA :)
 
+vous pouvez retrouver les slides des 2 présentations ici:
+- [Docker For Desktop](https://docs.google.com/presentation/d/1Go5ZZ_xsRus4GDJuE5K7EiXtI5wyzKnGlyT0Szrx3jY) : Guillaume Tardif (Docker Inc.)
+- [Stack de développement Synolia](https://www.slideshare.net/rzarouali/kit-de-developpement-synolia) : Rachid Zarouali (SYNOLIA)
 Un grand merci à [SYNOLIA](https://www.synolia.com) pour avoir accueilli l'événement et offert une collation à tous les participants.
 
 A très bientôt pour un nouvel événement DockerLyon
