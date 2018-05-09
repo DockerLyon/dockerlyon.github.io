@@ -29,5 +29,5 @@ Merci à Ludovic pour avoir fait la démo de notre Stack SYNOLIA :)
 
 Un grand merci à [SYNOLIA](https://www.synolia.com) pour avoir accueilli l'événement et offert une collation à tous les participants.
 
-OA très bientôt pour un nouvel événement DockerLyon
+A très bientôt pour un nouvel événement DockerLyon
 
