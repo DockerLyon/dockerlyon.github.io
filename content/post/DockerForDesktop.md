@@ -17,13 +17,13 @@ Lors de cette soirée au programme très complet, nous vous avons proposé de d�
 Cette présentation a permis à ceux qui ne connaissaient pas ou peu la technologie, d'apprendre à mieux l'utiliser et pour les plus avertis de faire quelques révisions :)
 
 Quelques Photos de l'evenements (Merci Solange de SYNOLIA :) ):
-![Pic1](dfm_pic1.jpg)
+![Pic1](https://dockerlyon.netlify.com/dfm_pic1.jpg)
 
-![Pic2](dfm_pic2.jpg)
+![Pic2](https://dockerlyon.netlify.com/dfm_pic2.jpg)
 
-![Pic3](dfm_pic3.jpg)
+![Pic3](https://dockerlyon.netlify.com/dfm_pic3.jpg)
 
-![Pic4](dfm_pic4.jpg)
+![Pic4](https://dockerlyon.netlify.com/dfm_pic4.jpg)
 
 Merci à Ludovic pour avoir fait la démo de notre Stack SYNOLIA :)
 
